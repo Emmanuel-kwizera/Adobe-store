@@ -1,3 +1,4 @@
 # Adobe-store
 
-- Language: C++
+- Language : C++
+- Actions : CRUD
