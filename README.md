@@ -3,7 +3,7 @@
 Implementetion of BS Trees with C++ and storing in files
 
 > ```Problem statement
-> ## Problem to be solved:
+> Problem to be solved:
 > Implement a menu-driven program for managing a software store. All information about the
 > available software is stored in a file software. This information includes the name, version,
 > quantity, and price of each package. When it is invoked, the program automatically creates a
