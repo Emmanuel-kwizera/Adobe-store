@@ -11,6 +11,7 @@ struct Node {
 	Node *left, *right;
 } *first;
 
+// Application format
 struct Node * createNode(string name, int pos){
 	struct Node * temp=new Node();
 	temp->name=name;
