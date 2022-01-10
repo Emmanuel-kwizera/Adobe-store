@@ -4,6 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// The node for all applications
 struct Node {
 	string name;
 	int record_position;
